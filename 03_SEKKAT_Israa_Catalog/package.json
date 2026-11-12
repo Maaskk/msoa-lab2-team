@@ -1,0 +1,14 @@
+{
+  "name": "msoa-catalog-service",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Consultation du catalogue et des prix des produits.",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env backend/services/catalog/index.mjs",
+    "check": "node --check backend/services/catalog/index.mjs && node --check backend/shared/runtime.mjs"
+  }
+}

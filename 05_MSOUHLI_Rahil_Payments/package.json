@@ -1,0 +1,14 @@
+{
+  "name": "msoa-payments-service",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Paiements et remboursements simules, coordonnes avec Orders.",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env backend/services/payments/index.mjs",
+    "check": "node --check backend/services/payments/index.mjs && node --check backend/shared/runtime.mjs"
+  }
+}

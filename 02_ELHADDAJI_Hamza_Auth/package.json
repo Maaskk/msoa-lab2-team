@@ -1,0 +1,14 @@
+{
+  "name": "msoa-auth-service",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Inscription, connexion, sessions et identite des utilisateurs.",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env backend/services/auth/index.mjs",
+    "check": "node --check backend/services/auth/index.mjs && node --check backend/shared/runtime.mjs"
+  }
+}

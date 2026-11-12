@@ -1,0 +1,100 @@
+[
+  {
+    "member": "ASHAD Ossama",
+    "service": "orders",
+    "file": "01_ASHAD_Ossama_Orders/backend/services/orders/index.mjs",
+    "source": "backend/services/orders/index.mjs",
+    "sha256": "34c6bfad44ea861668eb740b3bdc1d339c0390de206cfa43bb3040ccab12de3f"
+  },
+  {
+    "member": "ASHAD Ossama",
+    "service": "orders",
+    "file": "01_ASHAD_Ossama_Orders/backend/shared/runtime.mjs",
+    "source": "backend/shared/runtime.mjs",
+    "sha256": "3f9ed52fb961e7dbe2b423336597c777ce6b2cbc7fd2ee6fcfde4b6bc330fc7b"
+  },
+  {
+    "member": "Elhaddaji Hamza",
+    "service": "auth",
+    "file": "02_ELHADDAJI_Hamza_Auth/backend/services/auth/index.mjs",
+    "source": "backend/services/auth/index.mjs",
+    "sha256": "66930a40a0a86a81982ca0bbd915c5ae39e9d6ae6ee67fbffbe14ebaa29bc442"
+  },
+  {
+    "member": "Elhaddaji Hamza",
+    "service": "auth",
+    "file": "02_ELHADDAJI_Hamza_Auth/backend/shared/runtime.mjs",
+    "source": "backend/shared/runtime.mjs",
+    "sha256": "3f9ed52fb961e7dbe2b423336597c777ce6b2cbc7fd2ee6fcfde4b6bc330fc7b"
+  },
+  {
+    "member": "Sekkat Israa",
+    "service": "catalog",
+    "file": "03_SEKKAT_Israa_Catalog/backend/services/catalog/index.mjs",
+    "source": "backend/services/catalog/index.mjs",
+    "sha256": "4e72432801482298dcadcb5321eb215b05d6197a91ddb8e917e3248791a217ee"
+  },
+  {
+    "member": "Sekkat Israa",
+    "service": "catalog",
+    "file": "03_SEKKAT_Israa_Catalog/backend/shared/runtime.mjs",
+    "source": "backend/shared/runtime.mjs",
+    "sha256": "3f9ed52fb961e7dbe2b423336597c777ce6b2cbc7fd2ee6fcfde4b6bc330fc7b"
+  },
+  {
+    "member": "Sekkat Israa",
+    "service": "catalog",
+    "file": "03_SEKKAT_Israa_Catalog/backend/seed/products.json",
+    "source": "backend/seed/products.json",
+    "sha256": "a744d1ea006e2f965298d25c0d9175557378a222885ac5ea8c210914de9417c6"
+  },
+  {
+    "member": "Mouhcine Ayar",
+    "service": "inventory",
+    "file": "04_AYAR_Mouhcine_Inventory/backend/services/inventory/index.mjs",
+    "source": "backend/services/inventory/index.mjs",
+    "sha256": "9e901d2ce39fc58368e8ca8e3b27bea9d172d1ddbe454367a170b3920f1aa5fc"
+  },
+  {
+    "member": "Mouhcine Ayar",
+    "service": "inventory",
+    "file": "04_AYAR_Mouhcine_Inventory/backend/shared/runtime.mjs",
+    "source": "backend/shared/runtime.mjs",
+    "sha256": "3f9ed52fb961e7dbe2b423336597c777ce6b2cbc7fd2ee6fcfde4b6bc330fc7b"
+  },
+  {
+    "member": "Mouhcine Ayar",
+    "service": "inventory",
+    "file": "04_AYAR_Mouhcine_Inventory/backend/seed/products.json",
+    "source": "backend/seed/products.json",
+    "sha256": "a744d1ea006e2f965298d25c0d9175557378a222885ac5ea8c210914de9417c6"
+  },
+  {
+    "member": "Rahil Msouhli",
+    "service": "payments",
+    "file": "05_MSOUHLI_Rahil_Payments/backend/services/payments/index.mjs",
+    "source": "backend/services/payments/index.mjs",
+    "sha256": "ec9f1f5d2e28ec1f343f8b1a56681291d2c87f5d45b1ba8c6cbc87cca870991e"
+  },
+  {
+    "member": "Rahil Msouhli",
+    "service": "payments",
+    "file": "05_MSOUHLI_Rahil_Payments/backend/shared/runtime.mjs",
+    "source": "backend/shared/runtime.mjs",
+    "sha256": "3f9ed52fb961e7dbe2b423336597c777ce6b2cbc7fd2ee6fcfde4b6bc330fc7b"
+  },
+  {
+    "member": "Karany Mohamed Amine",
+    "service": "shipping",
+    "file": "06_KARANY_Mohamed_Amine_Shipping/backend/services/shipping/index.mjs",
+    "source": "backend/services/shipping/index.mjs",
+    "sha256": "336a7618145a75c9f35ae7b8f4d691e9b4eeaba16935dda952da88757cd9a927"
+  },
+  {
+    "member": "Karany Mohamed Amine",
+    "service": "shipping",
+    "file": "06_KARANY_Mohamed_Amine_Shipping/backend/shared/runtime.mjs",
+    "source": "backend/shared/runtime.mjs",
+    "sha256": "3f9ed52fb961e7dbe2b423336597c777ce6b2cbc7fd2ee6fcfde4b6bc330fc7b"
+  }
+]
